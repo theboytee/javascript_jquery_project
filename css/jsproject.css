@@ -1,0 +1,32 @@
+ .grid {
+	width: 600px;
+	height: 600px;
+	margin: 0px auto;
+	border: 25px solid black;
+ }
+ 
+ .container {
+	width: 650px;
+	margin: 0px auto;
+ }
+ 
+ h1 {
+	text-align: center;
+ }
+ 
+ button{
+	margin: 10px 0px;
+	padding: 5px;
+ }
+ 
+ .firstSquare {
+	clear: left;
+ }
+ 
+ .square{
+	float: left;
+ }
+ 
+/* .passed{ */
+	/* background: red; */
+/* } */
